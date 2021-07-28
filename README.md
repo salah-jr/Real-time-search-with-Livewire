@@ -1,3 +1,7 @@
+## Preview
+
+![users-table.gif](https://media.giphy.com/media/gmpw7dRUqtEDdNeTTa/giphy.gif)
+
 
 ## Installation
 
@@ -12,7 +16,3 @@
 9. Open the project in browser and register one user to be able to run seeder in the next step
 10. Database Seed: php artisan db:seed
 11. Visit /users to see all users
-
-## Preview
-
-![users-table.gif](https://media.giphy.com/media/gmpw7dRUqtEDdNeTTa/giphy.gif)
