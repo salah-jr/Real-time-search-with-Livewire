@@ -20,10 +20,11 @@
 
         @livewireStyles
     </head>
-    <body>
-        
+    <body style="    background: #414f66;
+    color: #fff;">
+
         <div class="container mx-auto">
-            <h1 class="text-3xl text-center my-10">Users</h1>
+            <h1 class="text-4xl text-center my-10">Users Data Table</h1>
             @livewire('users-table')
         </div>
 
